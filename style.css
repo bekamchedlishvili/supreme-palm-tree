@@ -26,6 +26,7 @@ body{
 	margin: 200px;
 	padding: 40px	;
 	border-radius: 23px;
+
 }
 .start2{
 	font-weight: 700;
@@ -40,14 +41,31 @@ body{
 .start3{
 	color: #1E1F36;
 	font-weight: 700;
-	font-size: 14px;
+	/*font-size: 14px;*/
 	line-height: 100%;
 	letter-spacing: 0px;
 	width: 100%;
-	max-width: 253px;
 	padding: 2px 1px 17px 350px;
 	line-height: 35px;
+
 	
-	
+}
+.start3 p{
+	width: 100%;
+	max-width: 319px;
+	line-height:normal;
+	color: #787887;
+	padding: auto;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 18px;
+	letter-spacing: 0px;
+
+}
+.start3 details{
+	border-bottom: 1px solid #EAEAEA;
+	width: 350px;
+	border-color: #E8E8EA;
+
 }
 
